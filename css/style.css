@@ -37,6 +37,12 @@
     font-size: 13px;
     color:#192130;
 }
+.burger-bar {
+    display: none;
+}
+.burger-bar:hover {
+    cursor: pointer;
+}
 /* section1 */
 .section1 {
     max-width: 1330px;
