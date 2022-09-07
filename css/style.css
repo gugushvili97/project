@@ -88,6 +88,7 @@
     width: 100%;
     height: 310px;
     margin: 0 auto;
+    padding-bottom: 20px;
 }
 .section2-div {
     max-width: 1218px;
@@ -177,4 +178,60 @@
 }
 .button3:hover {
     cursor:pointer
+}
+
+/* footer */
+.footer {
+    max-width: 1360px;
+    width: 100%;
+    height: 350px;
+    margin-top: 50px;
+    margin: 0 auto;
+    margin-top: 60px;
+    background-color: #2C3451;
+    padding-top: 45px;
+}
+.footer-div {
+    max-width: 1360px;
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo3 {
+    max-width: 170px;
+    width: 100%;
+    height: 150px;
+    margin-left: 20px;
+    margin-bottom: 11px;
+}
+.contact-us {
+    max-width: 222px;
+    width: 100%;
+    height: 244px;
+    display: flex;
+    flex-direction: column;
+}
+.mail {
+    margin-left: 20px;
+}
+.phone {
+    margin-left: 20px;
+    margin-top: 11px;
+}
+.icons {
+    max-width: 130;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.fa-facebook {
+    color: #3B5998;
+}
+.fa-twitter {
+    color: #55ACEE;
+}
+.fa-google {
+    color: #DC4E41;
 }
