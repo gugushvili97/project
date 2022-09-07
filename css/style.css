@@ -235,3 +235,21 @@
 .fa-google {
     color: #DC4E41;
 }
+/* second block in footer  */
+.Quick-Links {
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 11px;
+}
+.navigation2 {
+    max-width: 103px;
+    width: 100%;
+    height: 114px;
+}
+.ul2 {
+    display: flex;
+    flex-direction: column;
+}
+.nav-item1 {
+    margin-bottom: 10px;
+}
