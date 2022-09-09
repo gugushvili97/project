@@ -290,6 +290,7 @@
     text-align: center;
     font-size: 40px;
     color: #192130;
+    cursor: pointer;
 
 }
 .about-div1 {
@@ -310,9 +311,7 @@
     width: 100%;
     height: 680px;
     margin-left: 13px;
-    margin-right: 30px;
-    
-    
+    margin-right: 30px;  
 }
 .fa-check {
     color: #FFFFFF;
@@ -391,4 +390,36 @@
     height: 150px;
     cursor: pointer;
     opacity: 0.5;
+}
+
+/* tours.html page */
+
+.section-tours {
+    max-width: 1330px;
+    width: 100%;
+    height: 680px;
+    margin: 0 auto;
+   
+}
+.tours {
+    background-image: url(https://in-georgia.com/wp-content/uploads/2020/10/Batumi-skyline-at-night.jpg);
+    height:320px;
+    width: 100%;
+    background-repeat: repeat;
+    background-size: contain;
+    background-position: auto;
+}
+.tours-header {
+    font-size: 62px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+.tours1 {
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-left: 50px;
+    display: flex;
+    flex-direction: column;
+
 }
