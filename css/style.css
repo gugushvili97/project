@@ -272,3 +272,63 @@
     background-color: #3B5998;
     border: none;
 }
+
+/* about.html-page */
+.about-header {
+    text-align: center;
+    font-size: 40px;
+    color: #192130;
+
+}
+.about-div1 {
+    max-width: 1200px;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding-top: 30px;
+    border-style: solid;
+    border-width: medium;
+    border-color: #192130   
+    
+}
+.section-about {
+    max-width: 1330px;
+    width: 100%;
+    height: 550px;
+    margin-left: 13px;
+    margin-right: 30px;
+    
+    
+}
+.fa-check {
+    color: #FFFFFF;
+    margin-right: 11px;
+}
+.mission {
+    font-size: 22px;
+    text-shadow: #2C3451;
+}
+.about-div2 {
+    max-width: 1200px;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 30px;
+    
+    
+}
+.about-div3 {
+    max-width: 1200px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding-top: 30px;
+}
